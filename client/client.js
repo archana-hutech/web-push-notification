@@ -66,7 +66,3 @@ async function send() {
   });
   console.log("Push Sent....");
 }
-
-// function myFunction() {
-
-// }
